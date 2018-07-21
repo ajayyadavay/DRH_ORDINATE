@@ -1,0 +1,16 @@
+Enter_number_of_rainfall_pulse_m
+12
+Enter_number_of_non_zero_UH_ordinate_n
+15
+Enter_the_row_number_of_DRH_to_be_found
+20
+
+
+
+
+
+
+
+
+
+
